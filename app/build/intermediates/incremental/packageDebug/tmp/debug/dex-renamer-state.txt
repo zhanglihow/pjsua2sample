@@ -1,0 +1,4 @@
+#Fri Nov 08 14:11:17 CST 2019
+base.0=D\:\\work\\demo1\\pjsua2sample-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
